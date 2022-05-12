@@ -15,7 +15,6 @@ If you don't trust me,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use the below buttons to know more!
 
-By @MarineBots
     """
 
     # Home Button
