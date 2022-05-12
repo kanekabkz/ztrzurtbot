@@ -31,12 +31,10 @@ By @MarineBots
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("🦋 Support Chat 🦋", url="https://telegram.dog/MarineChats")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://telegram.dog/MarineBots")],
     ]
 
     # Help Message
@@ -60,5 +58,4 @@ BTW, if you don’t trust me, you can host [one] like me using my source code pr
 
 » Language : [Python](www.python.org)
 
-» Support Chat : [Marine Chats](https://telegram.me/MarineChats)
     """
